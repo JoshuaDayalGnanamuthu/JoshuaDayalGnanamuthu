@@ -1,12 +1,25 @@
 # Joshua Dayal Gnanamuthu
 
-Computer Science @ Johns Hopkins University · Expected 2029
+## Education
 
-I build things that work in production. My focus is machine learning systems, computer vision, and data pipelines — not as coursework exercises, but as real deployments with measurable outcomes. I am interested in the gap between a model that works on paper and one that holds up over time.
+**Johns Hopkins University** — B.S. Computer Science & Applied Math and Statistics, Dean's List (Expected 2029)  
+Relevant coursework: Intermediate Programming (C/C++), Discrete Mathematics, Linear Algebra for Data Science, Multivariable Calculus
 
 ---
 
-## What I have shipped
+## Skills
+
+**Languages:** Python, C++, C, Java, SQL  
+**ML / CV:** TensorFlow, PyTorch, Ultralytics YOLO, OpenCV, Scikit-learn, NumPy, Pandas  
+**Tools:** ROS2, Git, MySQL, Roboflow, Bash, Linux
+
+---
+
+I like to build fun stuff that intrest me! Intrested in computer vision and low level programming. (C++ is my favorite language, Python comes a close second).
+
+---
+
+## What I have worked on
 
 **MatryxSoft Technologies** — Trained YOLOv8 and ResNet models to classify 2,000+ beverage categories and 100+ dishes at 87% accuracy. Built an OpenCV pipeline to detect vacant shelf regions and estimate bottle capacity from bounding box geometry. Separately engineered a YouTube Data API pipeline to structure video captions for automated website generation, cutting manual collection by 10+ hours.
 
@@ -29,22 +42,7 @@ Two-player chess engine in C++ using SFML. Object-oriented piece hierarchy with 
 
 ---
 
-## Skills
-
-**Languages:** Python, C++, C, Java, SQL  
-**ML / CV:** TensorFlow, PyTorch, Ultralytics YOLO, OpenCV, Scikit-learn, NumPy, Pandas  
-**Tools:** ROS2, Git, MySQL, Roboflow, BeautifulSoup, Bash
-
----
-
-## Education
-
-**Johns Hopkins University** — B.S. Computer Science, Dean's List (Expected 2029)  
-Relevant coursework: Intermediate Programming (C/C++), Discrete Mathematics, Linear Algebra for Data Science, Multivariable Calculus
-
----
-
-[LinkedIn](https://linkedin.com) · [Website](https://joshuadayal.com) · jgnanam1@jh.edu
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/joshuadayal/)) · [Website]([https://joshuadayal.com](https://joshuadayalgnanamuthu.pythonanywhere.com/)) · jgnanam1@jh.edu
 
 
 <!--
