@@ -1,4 +1,8 @@
+<div align="center">
+
 # Joshua Dayal Gnanamuthu
+
+</div>
 
 ## Education
 
@@ -43,9 +47,6 @@ Fully customizable MLP from scratch in NumPy with configurable layers, neuron co
 Two-player chess engine in C++ using SFML. Object-oriented piece hierarchy with full rule enforcement such as legal move generation, check detection, checkmate resolution, perspective-aware rendering, and audio effects. Will implement MinMax Chess Engine soon
 
 ---
-
-[LinkedIn]((https://www.linkedin.com/in/joshuadayal/)) · [Website]((https://joshuadayalgnanamuthu.pythonanywhere.com/)) · jgnanam1@jh.edu
-
 
 <!--
 **JoshuaDayalGnanamuthu/JoshuaDayalGnanamuthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
