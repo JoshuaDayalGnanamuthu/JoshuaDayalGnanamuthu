@@ -15,7 +15,9 @@ Relevant coursework: Intermediate Programming (C/C++), Discrete Mathematics, Lin
 
 ---
 
-I like to build fun stuff that intrest me! Intrested in computer vision and low level programming. (C++ is my favorite language, Python comes a close second).
+## About
+
+I like to build fun stuff that intrest me! Intrested in automation, data analysis, and low level programming. (C++ is my favorite language, Python comes a close second).
 
 ---
 
@@ -35,14 +37,14 @@ I like to build fun stuff that intrest me! Intrested in computer vision and low 
 Autonomous paper trading system with a custom MLP trained on 18 engineered technical indicators (RSI, MACD, Bollinger Bands, ATR). Runs 24/7 with MySQL trade logging, automated market scheduling, and position management. 60.7% win rate, 16.91% return across 576 backtested trades.
 
 **[ModularNeuralNetwork](https://github.com/joshuadayal)**
-Fully customizable MLP from scratch in NumPy — configurable layers, neuron counts, and activation functions (ReLU, Sigmoid, Tanh). Implemented forward propagation, backpropagation, gradient descent, and cross-entropy loss. 97.01% accuracy on a binary classification benchmark. Reimplemented in C++.
+Fully customizable MLP from scratch in NumPy with configurable layers, neuron counts, and activation functions (ReLU, Sigmoid, Tanh). Implemented forward propagation, backpropagation, gradient descent, and cross-entropy loss. 97.01% accuracy on a binary classification benchmark. Reimplemented in C++. Also allows for model saving and loading.
 
 **[Chess Game Engine](https://github.com/joshuadayal)**
-Two-player chess engine in C++ using SFML. Object-oriented piece hierarchy with full rule enforcement — legal move generation, check detection, checkmate resolution, perspective-aware rendering, and audio effects.
+Two-player chess engine in C++ using SFML. Object-oriented piece hierarchy with full rule enforcement such as legal move generation, check detection, checkmate resolution, perspective-aware rendering, and audio effects. Will implement MinMax Chess Engine soon
 
 ---
 
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/joshuadayal/)) · [Website]([https://joshuadayal.com](https://joshuadayalgnanamuthu.pythonanywhere.com/)) · jgnanam1@jh.edu
+[LinkedIn]((https://www.linkedin.com/in/joshuadayal/)) · [Website]((https://joshuadayalgnanamuthu.pythonanywhere.com/)) · jgnanam1@jh.edu
 
 
 <!--
