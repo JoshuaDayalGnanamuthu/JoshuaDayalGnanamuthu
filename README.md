@@ -3,7 +3,7 @@
 ## Education
 
 **Johns Hopkins University** — B.S. Computer Science & Applied Math and Statistics, Dean's List (Expected 2029)  
-Relevant coursework: Intermediate Programming (C/C++), Discrete Mathematics, Linear Algebra for Data Science, Multivariable Calculus
+Relevant coursework: Intermediate Programming (C/C++), Discrete Mathematics, Linear Algebra for Data Science, Multivariable Calculus, Gateway Computing: Java
 
 ---
 
@@ -25,7 +25,7 @@ I like to build fun stuff that intrest me! Intrested in automation, data analysi
 
 **MatryxSoft Technologies** — Trained YOLOv8 and ResNet models to classify 2,000+ beverage categories and 100+ dishes at 87% accuracy. Built an OpenCV pipeline to detect vacant shelf regions and estimate bottle capacity from bounding box geometry. Separately engineered a YouTube Data API pipeline to structure video captions for automated website generation, cutting manual collection by 10+ hours.
 
-**CollegeSource** — Automated the construction of a structured database covering 436+ U.S. universities using Python, BeautifulSoup, and OpenPyXL. Collected acceptance rates, tuition, rankings, faculty ratios, SAT/ACT ranges, and more — exported into dynamically formatted Excel workbooks, saving 30+ hours of manual research and entry.
+**CollegeSource** — Automated the construction of a structured database covering 436+ U.S. universities using Python, BeautifulSoup, and OpenPyXL. Collected acceptance rates, tuition, rankings, faculty ratios, SAT/ACT ranges, and more. Exported into dynamically formatted Excel workbooks, saving 30+ hours of manual research and entry.
 
 **JHU URC Mars Rover Club** — Trained and deployed a YOLO model for real-time keyboard detection, built an ArUco-based 3D position estimation pipeline, and developed ROS2 publisher/subscriber nodes to coordinate camera input, detection, and mechanical arm actuation. The rover physically types on a keyboard.
 
