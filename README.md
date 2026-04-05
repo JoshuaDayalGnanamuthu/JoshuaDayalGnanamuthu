@@ -1,6 +1,6 @@
 <div align="center">
 
-# Joshua Dayal Gnanamuthu
+# Joshua Dayal
 
 </div>
 
