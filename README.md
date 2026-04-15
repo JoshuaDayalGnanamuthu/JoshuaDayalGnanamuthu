@@ -47,7 +47,7 @@ Fully customizable MLP from scratch in NumPy with configurable layers, neuron co
 Two-player chess engine in C++ using SFML. Object-oriented piece hierarchy with full rule enforcement such as legal move generation, check detection, checkmate resolution, perspective-aware rendering, and audio effects. Will implement MinMax Chess Engine soon.
 
 **[Olive Market Intelligence](https://github.com/joshuadayal)**
-A real time stock market and news platform, integrating the Finnhub financial data and Google Gemini API to deliver live price quotes, news related to the company, company financials, and LLM-generated investment analysis
+A Flask backend with a dynamic JavaScript frontend via REST API for a real-time stock market and news platform, integrating the Finnhub financial data API and Google Gemini API to deliver live price quotes, news related to the company, company financials, and LLM-generated investment analysis with structured JSON responses
 
 ---
 
