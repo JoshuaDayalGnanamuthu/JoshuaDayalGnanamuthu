@@ -48,6 +48,7 @@ Two-player chess engine in C++ using SFML. Object-oriented piece hierarchy with 
 
 **[Olive Market Intelligence](https://github.com/joshuadayal)**
 A real time stock market and news platform, integrating the Finnhub financial data and Google Gemini API to deliver live price quotes, news related to the company, company financials, and LLM-generated investment analysis
+
 ---
 
 <!--
