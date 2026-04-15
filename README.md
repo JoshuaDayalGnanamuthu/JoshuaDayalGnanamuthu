@@ -13,7 +13,7 @@ Relevant coursework: Intermediate Programming (C/C++), Discrete Mathematics, Lin
 
 ## Skills
 
-**Languages:** Python, C++, C, Java, SQL  
+**Languages:** Python, C++, C, Java, SQL, JavaScript, HTML, CSS  
 **ML / CV:** TensorFlow, PyTorch, Ultralytics YOLO, OpenCV, Scikit-learn, NumPy, Pandas  
 **Tools:** ROS2, Git, MySQL, Roboflow, Bash, Linux
 
@@ -46,6 +46,8 @@ Fully customizable MLP from scratch in NumPy with configurable layers, neuron co
 **[Chess Game Engine](https://github.com/joshuadayal)**
 Two-player chess engine in C++ using SFML. Object-oriented piece hierarchy with full rule enforcement such as legal move generation, check detection, checkmate resolution, perspective-aware rendering, and audio effects. Will implement MinMax Chess Engine soon
 
+**[Olive Market Intelligence]([https://github.com/joshuadayal](https://oliveinfo.onrender.com/))**
+A real time stock market and news platform, integrating the Finnhub financial data and Google Gemini API to deliver live price quotes, news related to the company, company financials, and LLM-generated investment analysis
 ---
 
 <!--
