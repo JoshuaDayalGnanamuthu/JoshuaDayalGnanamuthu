@@ -44,9 +44,9 @@ Autonomous paper trading system with a custom MLP trained on 18 engineered techn
 Fully customizable MLP from scratch in NumPy with configurable layers, neuron counts, and activation functions (ReLU, Sigmoid, Tanh). Implemented forward propagation, backpropagation, gradient descent, and cross-entropy loss. 97.01% accuracy on a binary classification benchmark. Reimplemented in C++. Also allows for model saving and loading.
 
 **[Chess Game Engine](https://github.com/joshuadayal)**
-Two-player chess engine in C++ using SFML. Object-oriented piece hierarchy with full rule enforcement such as legal move generation, check detection, checkmate resolution, perspective-aware rendering, and audio effects. Will implement MinMax Chess Engine soon
+Two-player chess engine in C++ using SFML. Object-oriented piece hierarchy with full rule enforcement such as legal move generation, check detection, checkmate resolution, perspective-aware rendering, and audio effects. Will implement MinMax Chess Engine soon.
 
-**[Olive Market Intelligence]([https://github.com/joshuadayal](https://oliveinfo.onrender.com/))**
+**[Olive Market Intelligence](https://github.com/joshuadayal)**
 A real time stock market and news platform, integrating the Finnhub financial data and Google Gemini API to deliver live price quotes, news related to the company, company financials, and LLM-generated investment analysis
 ---
 
