@@ -35,7 +35,7 @@ I like to build fun stuff that intrest me! Intrested in automation, data analysi
 
 ---
 
-## Selected Projects
+<!-- ## Selected Projects
 
 **[Algorithmic Trading System](https://github.com/joshuadayal)**
 Autonomous paper trading system with a custom MLP trained on 18 engineered technical indicators (RSI, MACD, Bollinger Bands, ATR). Runs 24/7 with MySQL trade logging, automated market scheduling, and position management. 60.7% win rate, 16.91% return across 576 backtested trades.
@@ -50,6 +50,7 @@ Two-player chess engine in C++ using SFML. Object-oriented piece hierarchy with 
 A Flask backend with a dynamic JavaScript frontend via REST API for a real-time stock market and news platform, integrating the Finnhub financial data API and Google Gemini API to deliver live price quotes, news related to the company, company financials, and LLM-generated investment analysis with structured JSON responses
 
 ---
+-->
 
 <!--
 **JoshuaDayalGnanamuthu/JoshuaDayalGnanamuthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
